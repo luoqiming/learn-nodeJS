@@ -1,0 +1,1 @@
+console.log("这是node写下的js文件")
